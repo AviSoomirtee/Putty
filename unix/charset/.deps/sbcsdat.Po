@@ -1,0 +1,11 @@
+charset/sbcsdat.o: ../charset/sbcsdat.c /usr/include/stdc-predef.h \
+ ../charset/charset.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../charset/internal.h
+
+/usr/include/stdc-predef.h:
+
+../charset/charset.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+
+../charset/internal.h:
